@@ -1,3 +1,2 @@
-YiTechX (tekno5031)
+YiTechX (tekno5031),
 Tokeni ve Status u değiştirin yeter.
-Yapın.
